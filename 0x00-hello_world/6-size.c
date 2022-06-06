@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Program starting point 
+ * main - Program starting point
  *
  * Description - Displaying size of data types
  *
@@ -24,4 +24,3 @@ int main(void)
 
 	return (0);
 }
-  

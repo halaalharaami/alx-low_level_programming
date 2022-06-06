@@ -4,7 +4,7 @@
  *
  *description - prints the statement using printf function
  *
- *Return: success 
+ *Return: success
 */
 int main(void)
 {
